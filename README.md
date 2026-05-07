@@ -18,7 +18,7 @@ Results are displayed in an interactive dashboard with adjustable parameters (sl
 
 ## Key output
 
-[Duration Dashboard]<img width="1702" height="786" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/5b2a0a17-7e8a-4d92-b907-ef3f503cde96" />
+<img width="1702" height="786" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/5b2a0a17-7e8a-4d92-b907-ef3f503cde96" />
 
 
 The chart illustrates the divergence between the modified duration approximation (dashed blue) and the true convex price/yield curve (orange) — a gap that becomes material for large yield moves or long-dated bonds.
